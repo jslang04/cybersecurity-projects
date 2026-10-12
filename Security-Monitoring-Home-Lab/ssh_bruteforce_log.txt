@@ -1,0 +1,60 @@
+2026-07-22T18:47:49.466445+00:00 target sshd[1497]: Server listening on 0.0.0.0 port 22.
+2026-07-22T18:47:49.466549+00:00 target sshd[1497]: Server listening on :: port 22.
+2026-07-22T20:26:17.478858+00:00 target sshd[1815]: Server listening on 0.0.0.0 port 22.
+2026-07-22T20:26:17.479107+00:00 target sshd[1815]: Server listening on :: port 22.
+2026-07-22T21:43:28.231487+00:00 target sshd[1261]: Server listening on 0.0.0.0 port 22.
+2026-07-22T21:43:28.231489+00:00 target sshd[1261]: Server listening on :: port 22.
+2026-07-23T20:46:39.276482+00:00 target sshd[1254]: Server listening on 0.0.0.0 port 22.
+2026-07-23T20:46:39.276486+00:00 target sshd[1254]: Server listening on :: port 22.
+2026-07-23T20:49:11.683058+00:00 target sshd-session[1667]: Connection closed by 192.168.56.102 port 57960
+2026-07-23T20:49:22.924749+00:00 target sshd-session[1668]: error: Protocol major versions differ: 2 vs. 1
+2026-07-23T20:49:22.925503+00:00 target sshd-session[1668]: banner exchange: Connection from 192.168.56.102 port 40402: could not read protocol version
+2026-07-23T20:49:22.927736+00:00 target sshd-session[1669]: error: Protocol major versions differ: 2 vs. 1
+2026-07-23T20:49:22.929747+00:00 target sshd-session[1669]: banner exchange: Connection from 192.168.56.102 port 40406: could not read protocol version
+2026-07-23T20:49:22.967746+00:00 target sshd-session[1670]: Unable to negotiate with 192.168.56.102 port 40416: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:49:23.009107+00:00 target sshd-session[1672]: Unable to negotiate with 192.168.56.102 port 40430: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:49:23.041524+00:00 target sshd-session[1674]: Unable to negotiate with 192.168.56.102 port 40446: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:49:23.072138+00:00 target sshd-session[1676]: Unable to negotiate with 192.168.56.102 port 40458: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:49:23.105935+00:00 target sshd-session[1678]: Unable to negotiate with 192.168.56.102 port 40472: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:49:23.137767+00:00 target sshd-session[1680]: Unable to negotiate with 192.168.56.102 port 40480: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:46.477130+00:00 target sshd-session[1694]: Connection closed by 192.168.56.102 port 34340
+2026-07-23T20:53:57.699150+00:00 target sshd-session[1695]: error: Protocol major versions differ: 2 vs. 1
+2026-07-23T20:53:57.700756+00:00 target sshd-session[1695]: banner exchange: Connection from 192.168.56.102 port 37008: could not read protocol version
+2026-07-23T20:53:57.701273+00:00 target sshd-session[1696]: error: Protocol major versions differ: 2 vs. 1
+2026-07-23T20:53:57.711396+00:00 target sshd-session[1696]: banner exchange: Connection from 192.168.56.102 port 37012: could not read protocol version
+2026-07-23T20:53:57.739669+00:00 target sshd-session[1697]: Unable to negotiate with 192.168.56.102 port 37020: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:57.774023+00:00 target sshd-session[1699]: Unable to negotiate with 192.168.56.102 port 37026: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:57.803083+00:00 target sshd-session[1701]: Unable to negotiate with 192.168.56.102 port 37038: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:57.839597+00:00 target sshd-session[1703]: Unable to negotiate with 192.168.56.102 port 37052: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:57.871197+00:00 target sshd-session[1705]: Unable to negotiate with 192.168.56.102 port 37056: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-23T20:53:57.897993+00:00 target sshd-session[1707]: Unable to negotiate with 192.168.56.102 port 37068: no matching key exchange method found. Their offer: diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group-exchange-sha256 [preauth]
+2026-07-24T20:53:46.342211+00:00 target sshd[1251]: Server listening on 0.0.0.0 port 22.
+2026-07-24T20:53:46.342216+00:00 target sshd[1251]: Server listening on :: port 22.
+2026-07-24T20:55:02.030368+00:00 target sshd-session[1654]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:55:03.741369+00:00 target sshd-session[1654]: Failed password for ubuntu-target from 192.168.56.102 port 38044 ssh2
+2026-07-24T20:55:08.421315+00:00 target sshd-session[1654]: Failed password for ubuntu-target from 192.168.56.102 port 38044 ssh2
+2026-07-24T20:55:13.172094+00:00 target sshd-session[1654]: Failed password for ubuntu-target from 192.168.56.102 port 38044 ssh2
+2026-07-24T20:55:15.350695+00:00 target sshd-session[1654]: Connection closed by authenticating user ubuntu-target 192.168.56.102 port 38044 [preauth]
+2026-07-24T20:55:15.353975+00:00 target sshd-session[1654]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:55:34.769978+00:00 target sshd-session[1659]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:55:36.745520+00:00 target sshd-session[1659]: Failed password for ubuntu-target from 192.168.56.102 port 38292 ssh2
+2026-07-24T20:55:44.121044+00:00 target sshd-session[1659]: Failed password for ubuntu-target from 192.168.56.102 port 38292 ssh2
+2026-07-24T20:55:52.979513+00:00 target sshd-session[1659]: Failed password for ubuntu-target from 192.168.56.102 port 38292 ssh2
+2026-07-24T20:55:55.210837+00:00 target sshd-session[1659]: Connection closed by authenticating user ubuntu-target 192.168.56.102 port 38292 [preauth]
+2026-07-24T20:55:55.216241+00:00 target sshd-session[1659]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:56:12.052249+00:00 target sshd-session[1664]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:56:14.549301+00:00 target sshd-session[1664]: Failed password for ubuntu-target from 192.168.56.102 port 38714 ssh2
+2026-07-24T20:56:21.717259+00:00 target sshd-session[1664]: Failed password for ubuntu-target from 192.168.56.102 port 38714 ssh2
+2026-07-24T20:56:25.341518+00:00 target sshd-session[1664]: Failed password for ubuntu-target from 192.168.56.102 port 38714 ssh2
+2026-07-24T20:56:25.686646+00:00 target sshd-session[1664]: Connection closed by authenticating user ubuntu-target 192.168.56.102 port 38714 [preauth]
+2026-07-24T20:56:25.689177+00:00 target sshd-session[1664]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.102  user=ubuntu-target
+2026-07-24T20:56:30.226811+00:00 target sshd-session[1669]: Accepted password for ubuntu-target from 192.168.56.102 port 33002 ssh2
+2026-07-24T20:56:30.230406+00:00 target sshd-session[1669]: pam_unix(sshd:session): session opened for user ubuntu-target(uid=1000) by ubuntu-target(uid=0)
+2026-07-24T21:04:52.994970+00:00 target sshd-session[1725]: Received disconnect from 192.168.56.102 port 33002:11: disconnected by user
+2026-07-24T21:04:53.002955+00:00 target sshd-session[1725]: Disconnected from user ubuntu-target 192.168.56.102 port 33002
+2026-07-24T21:04:53.003224+00:00 target sshd-session[1669]: pam_unix(sshd:session): session closed for user ubuntu-target
+2026-07-24T21:04:53.003370+00:00 target sshd-session[1669]: syslogin_perform_logout: logout() returned an error
+2026-07-24T21:06:13.198036+00:00 target sshd[1264]: Server listening on 0.0.0.0 port 22.
+2026-07-24T21:06:13.198049+00:00 target sshd[1264]: Server listening on :: port 22.
+2026-07-24T21:14:41.137362+00:00 target sshd[1264]: Server listening on 0.0.0.0 port 22.
+2026-07-24T21:14:41.137365+00:00 target sshd[1264]: Server listening on :: port 22.
